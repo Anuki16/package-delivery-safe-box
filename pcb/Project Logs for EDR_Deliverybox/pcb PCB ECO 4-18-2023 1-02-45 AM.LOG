@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=schematic Member=Component J1 Power in

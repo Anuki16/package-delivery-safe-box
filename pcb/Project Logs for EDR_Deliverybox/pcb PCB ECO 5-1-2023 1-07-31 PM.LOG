@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=KEYPAD
+Change Component Designator: OldDesignator=P3 NewDesignator=LED
+Change Component Designator: OldDesignator=P4 NewDesignator=LOCK
+Change Component Designator: OldDesignator=P5 NewDesignator=PW
+Change Component Designator: OldDesignator=P6 NewDesignator=WIFI
+Change Component Designator: OldDesignator=P7 NewDesignator=WAKE
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetLED_2

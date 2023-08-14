@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U1 Old Footprint=NDE0003A New Footprint=TO220
+Change Component Comment : Designator=U1 Old Comment=LM1117T-3.3/NOPB New Comment=LD1117V33C
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6E481715-0542-4B96-9EDE-B6FBF5E28AC9 New ItemGUID=BE6D58F8-8961-4392-99DF-B12D88D4AA82 Old RevisionGUID=E3157C4B-5BA2-4234-ADDB-BA3B98EF6CA2 New RevisionGUID=EC210AAF-CE09-41D6-A530-777AE1C2F661
+Change component parameters: Designator = "U1" ("U1"); Footprint = "NDE0003A"; UniqueID = "\SCGYVMPV" ("\SCGYVMPV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000544.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/PACKAGE_INFORMATION/CD00004649.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "ver3.0"; VariantName = "[No Variations]"

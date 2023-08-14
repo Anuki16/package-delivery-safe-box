@@ -1,0 +1,18 @@
+.IRL520NPBF :1 ;Infineon IRL520NPBF N-channel MOSFET, 10 A, 100 V LogicFET, 3-Pin TO-220AB
+TO254P469X1042X1967-3P
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IRL520NPBF
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRL520NPBF)
+~!Mouser Part Number (942-IRL520NPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRL520NPBF?qs=9%252BKlkBgLFf3eZ5ppEpIaKQ%3D%3D)
+~!Arrow Part Number (IRL520NPBF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/irl520npbf/infineon-technologies-ag?region=nac)
+~!Link Datasheet (https://www.infineon.com/dgdl/irl520npbf.pdf?fileId=5546d462533600a40153565f9b62255b)
+~!Height (4.69mm)
+~!3D_Model (IRL520NPBF)
+IRL520NPBF
+1.1!U 2.1!U 3.1!U 

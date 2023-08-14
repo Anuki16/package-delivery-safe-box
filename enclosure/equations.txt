@@ -1,0 +1,11 @@
+﻿"width"= 31.00cm
+"length"= 44.00cm
+"height"= 49cm
+"top_height"= 5cm
+"bot_height"= 5cm
+"door_width"= 5cm
+"thick"= 0.2cm
+"left_length"= 3cm
+"right_length"= 3cm
+"pole_loc"= 1cm
+"pole_dim"= 1cm"enc_length" = 22cm
