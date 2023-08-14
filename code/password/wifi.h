@@ -15,10 +15,10 @@ FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
 
-const char* WIFI_SSID = "AndroidAP20CC";
-const char* WIFI_PASSWORD = "wkbp2113";
-const char* API_KEY = "AIzaSyAxP8GeimLKZwvs7xAu0psmbB3bMY2afY4";
-const char* DATABASE_URL = "https://deliverysafe-92d96-default-rtdb.firebaseio.com/";
+const char* WIFI_SSID = "";
+const char* WIFI_PASSWORD = "";
+const char* API_KEY = "";
+const char* DATABASE_URL = "";
 
 // NTP server to request epoch time
 const char* ntpServer = "pool.ntp.org";
